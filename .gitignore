@@ -1,0 +1,18 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+
+# complied python code
+*.pyc
+
+# eclipse project file
+*.project
+*.pydevproject
+
+.DS_Store
+
